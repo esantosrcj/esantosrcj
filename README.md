@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie
 - 👀 I’m interested in microservice architecture
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python Flask application development
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me at esantosrcj@gmail.com
 
