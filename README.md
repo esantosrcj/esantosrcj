@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo
+- 👋 Hi, I’m Eddie
 - 👀 I’m interested in microservice architecture
 - 🌱 I’m currently learning SvelteKit application development
 
